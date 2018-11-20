@@ -2,7 +2,7 @@
 <html lang = "en">
 <head>
         <meta charset= "utf-8">
-        <title> Kathy M. Ison</title>
+        <title> GitHub</title>
         
         <link rel = "stylesheet" href = "/css/main.css">
         </head>
@@ -10,16 +10,17 @@
         <body>
                 <nav>
                 <ul>
-                        <li><a href="#"<Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">CV</a></li>
-                        <li><a href="#">Blog</a></li>
+                        <li><a href="#"<Git</a></li>
+                        <li><a href="#">Hub</a></li>
+                        <li><a href="#">Who</a></li>
+                        <li><a href="#">Repository</a></li>
+                        <li><a href+"#">Thoughts</a></li>
                 </ul>
                 </nav>
                 <div id = "wrapper">
                 <div class="blurb">
-                        <h1>Hi there, My name is Kathy!</h1>
-                                <p>I am your worst nightmare! <a href+"#">Read more about my lofe...</a></p>
+                        <h1>What is GitHub?</h1>
+                                <p>GitHub is an online website meant for distributing and sharing code<a href+"#"></a></p>
                 </div>
                 
                 <footer>
