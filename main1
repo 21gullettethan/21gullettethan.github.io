@@ -2,7 +2,7 @@
 <html lang = "en">
 <head>
         <meta charset= "utf-8">
-        <title> GitHub</title>
+        <title> Kathy M. Ison</title>
         
         <link rel = "stylesheet" href = "/css/main.css">
         </head>
@@ -10,23 +10,23 @@
         <body>
                 <nav>
                 <ul>
-                        <li><a href="#"<Git</a></li>
-                        <li><a href="#">Hub</a></li>
-                        <li><a href="#">Who</a></li>
-                        <li><a href="#">Repository</a></li>
-                        <li><a href+"#">Thoughts</a></li>
+                        <li><a href="#"<Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">CV</a></li>
+                        <li><a href="#">Blog</a></li>
+                      
                 </ul>
                 </nav>
                 <div id = "wrapper">
                 <div class="blurb">
-                        <h1>What is GitHub?</h1>
-                                <p>GitHub is an online website meant for distributing and sharing code<a href+"#"></a></p>
+                        <h1>Hi there. My name is Kathy!</h1>
+                                <p>I am your worst nightmare!<a href+"#">Read more about my life...</a></p>
                 </div>
                 
                 <footer>
                 <ul>
                         <li><a href="mailto:kison@starkstate.edu">email</a></li>
-                        <li><a href+"https://github.com/21gullettethan>github.com/21gullettethan</a><li>
+                        <li><a href+"https://github.com/isonKathy1975">github.com/isonKathy1975</a><li>
                         </ul>
                 </footer>
                 </div>
